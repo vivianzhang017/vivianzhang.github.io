@@ -1,0 +1,32 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: white;
+	font-family: avenir, futura, avant garde, sans-serif;
+}
+
+header {
+	color:#D3D3D3;
+	font-size:50px; 
+	margin-left: 5%;
+	text-align: left;
+	font-family: avenir, futura, Gotham, Helvetica, Arial, sans-serif;
+}
+
+#container {
+background-color: white;
+	max-width: 15000px;
+	margin: 0 auto;
+}
+
+nav{
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+	
+}
